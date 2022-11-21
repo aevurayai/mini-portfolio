@@ -20,7 +20,7 @@ To verify that your installation was successful, run:
 $ ember --version
 
 * `git clone <repository-url>` this repository
-* `cd repository download loaction`
+* `cd repository download location`
 * `cd sov-tech`
 
 ## Running App/ Development
@@ -31,26 +31,6 @@ We can launch with the ember server or run our app by running the following comm
 ### Deploying
 The app was deploy on Netlify, follow the link below for the deployed version:
 https://regal-frangollo-b03390.netlify.app
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
-
-### Running Tests
-
-* `ember test`
-* `ember test --server`
-
-### Linting
-
-* `npm run lint`
-* `npm run lint:fix`
-
-### Building
-
-* `ember build` (development)
-* `ember build --environment production` (production)
-
-
 
 
 
