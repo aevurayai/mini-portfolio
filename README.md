@@ -13,17 +13,24 @@ You will need the following things properly installed on your computer.
 * [Google Chrome](https://google.com/chrome/)
 
 ## Installation
+You can install the latest version of Ember CLI by running the following command.
+$ npm install -g ember-cli
+
+To verify that your installation was successful, run:
+$ ember --version
 
 * `git clone <repository-url>` this repository
+* `cd repository download loaction`
 * `cd sov-tech`
-* `npm install`
 
-## Running / Development
-
+## Running App/ Development
+We can launch with the ember server or run our app by running the following command:
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 * Visit your tests at [http://localhost:4200/tests](http://localhost:4200/tests).
-
+### Deploying
+The app was deploy on Netlify, follow the link below for the deployed version:
+https://regal-frangollo-b03390.netlify.app
 ### Code Generators
 
 Make use of the many generators for code, try `ember help generate` for more details
@@ -43,9 +50,9 @@ Make use of the many generators for code, try `ember help generate` for more det
 * `ember build` (development)
 * `ember build --environment production` (production)
 
-### Deploying
 
-Specify what it takes to deploy your app.
+
+
 
 ## Further Reading / Useful Links
 
